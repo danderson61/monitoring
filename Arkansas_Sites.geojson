@@ -3,7 +3,7 @@
 "name": "Arkansas Sites",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "AECI" }, "geometry": { "type": "Point", "coordinates": [ -92.3214862, 34.6746327 ] } },
+{ "type": "Feature", "properties": { "Name": "details_title": "AECI" }, "geometry": { "type": "Point", "coordinates": [ -92.3214862, 34.6746327 ] } },
 { "type": "Feature", "properties": { "Name": "AECI Walkway" }, "geometry": { "type": "Point", "coordinates": [ -92.3242782, 34.677897 ] } },
 { "type": "Feature", "properties": { "Name": "Arkansas Valley Electric Cooperative" }, "geometry": { "type": "Point", "coordinates": [ -94.3513294, 35.5194064 ] } },
 { "type": "Feature", "properties": { "Name": "Ashley Chicot Electric Cooperative" }, "geometry": { "type": "Point", "coordinates": [ -91.9224272, 33.2508277 ] } },
