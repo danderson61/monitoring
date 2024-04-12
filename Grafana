@@ -1,0 +1,21 @@
+  
+<html>
+<head>
+    <title>Locus Portal 4 view </title>
+
+
+   
+   <style id="compiled-css" type="text/css">
+    .frame {width: 1280px; height: 786px; border: 0; transform: scale(0.6); transform-origin: 0 0; }   
+     
+          
+     }
+  </style>
+  </head>
+  
+ <body>
+  <body style="background-color:Black;">
+<iframe src="https://tpioperations.grafana.net/d/19f285e5-c42d-4007-b671-31d493686316/overview-fahrenheit?orgId=1&from=1712344736155&to=1712949536155&viewPanel=24" ;></iframe></td>
+      
+  </body>
+  </html>
