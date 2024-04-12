@@ -15,7 +15,7 @@
   
  <body>
   <body style="background-color:Black;">
-<iframe src="https://tpioperations.grafana.net/d-solo/19f285e5-c42d-4007-b671-31d493686316/overview-fahrenheit?orgId=1&from=1712345535875&to=1712950335875&panelId=24" width="450" height="200" frameborder="0"></iframe>
+<iframe src="https://tpioperations.grafana.net/public-dashboards/605c32702bfa43f18fde72c7756049c4/overview-fahrenheit?orgId=1&from=1712345535875&to=1712950335875&panelId=24" width="450" height="200" frameborder="0"></iframe>
       
   </body>
   </html>
